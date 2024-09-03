@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "nama_mk": "BAHASA INGGRIS TEKNIK 4",
+        "sks": 2,
+        "semester": 4,
+        "dosen_pengampu": "Dra.Grace Hellen Pontoh, M.Hum",
+        "nip_dosen": "195911091993032001",
+        "prodi": "D-IV Teknik Informatika"
+    },
+    {
+        "id": 2,
+        "nama_mk": "INTERAKSI MANUSIA DAN KOMPUTER",
+        "sks": 2,
+        "semester": 4,
+        "dosen_pengampu": "Ali Akbar Steven Ramschie, SST.,MT",
+        "nip_dosen": "197309092003121001",
+        "prodi": "D-IV Teknik Informatika"
+    },
+    {
+        "id": 3,
+        "nama_mk": "BASIS DATA 2",
+        "sks": 2,
+        "semester": 4,
+        "dosen_pengampu": "Anritsu Steven Christian Polii, SST., MT.",
+        "nip_dosen": "197610162005011001",
+        "prodi": "D-IV Teknik Informatika"
+    },
+    {
+        "id": 4,
+        "nama_mk": "WORKDHOP ADM. DAN MANAJEMEN JARINGAN",
+        "sks": 2,
+        "semester": 4,
+        "dosen_pengampu": "Anritsu Steven Christian Polii, SST., MT.",
+        "nip_dosen": "197610162005011001",
+        "prodi": "D-IV Teknik Informatika"
+    },
+    {
+        "id": 9,
+        "nama_mk": "PEMROGRAMAN WEB",
+        "sks": 2,
+        "semester": 4,
+        "dosen_pengampu": "Harson Kapoh, ST.,MT",
+        "nip_dosen": "197101011999031004",
+        "prodi": "D-IV Teknik Informatika"
+    },
+    {
+        "id": 10,
+        "nama_mk": "PEMROGRAMAN WEB",
+        "sks": 2,
+        "semester": 4,
+        "dosen_pengampu": "Marike Amelda Silvia Kondoj, SST, MT",
+        "nip_dosen": "197804062003122002",
+        "prodi": "D-IV Teknik Informatika"
+    },
+    {
+        "id": 11,
+        "nama_mk": "PRAK. BASIS DATA",
+        "sks": 2,
+        "semester": 4,
+        "dosen_pengampu": "Anritsu Steven Christian Polii, SST., MT.",
+        "nip_dosen": "197610162005011001",
+        "prodi": "D-IV Teknik Informatika"
+    },
+    {
+        "id": 12,
+        "nama_mk": "PRAK. PEMROGRAMAN WEB",
+        "sks": 2,
+        "semester": 4,
+        "dosen_pengampu": "Marike Amelda Silvia Kondoj, SST, MT",
+        "nip_dosen": "197804062003122002",
+        "prodi": "D-IV Teknik Informatika"
+    },
+    {
+        "id": 13,
+        "nama_mk": "PRAK. PEMROGRAMAN WEB",
+        "sks": 2,
+        "semester": 4,
+        "dosen_pengampu": "Harson Kapoh, ST.,MT",
+        "nip_dosen": "197101011999031004",
+        "prodi": "D-IV Teknik Informatika"
+    },
+    {
+        "id": 14,
+        "nama_mk": "SERAT OPTIK",
+        "sks": 2,
+        "semester": 4,
+        "dosen_pengampu": "Dr. Steven Johny Runtuwene, SST., M.Eng",
+        "nip_dosen": "197507122002121001",
+        "prodi": "D-IV Teknik Informatika"
+    },
+    {
+        "id": 15,
+        "nama_mk": "WORKSHOP MOBILE PROGRAMMING",
+        "sks": 2,
+        "semester": 4,
+        "dosen_pengampu": "Harson Kapoh, ST.,MT",
+        "nip_dosen": "197101011999031004",
+        "prodi": "D-IV Teknik Informatika"
+    }
+]
